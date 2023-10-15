@@ -1,0 +1,29 @@
+import:
+  - ~/.config/alacritty/fonts.yml
+  - ~/.config/alacritty/colorschemes.yml
+
+window:
+  padding:
+
+    x: 15
+    y: 15
+
+  decorations: none
+  opacity: 0.8
+  dynamic_title: true
+
+  history: 10000
+  multiplier: 2
+
+selection:
+
+  save_to_clipboard: false
+
+cursor:
+
+  style:
+
+    shape: Block
+    blinking: On
+
+  unfocused_hollow: false
