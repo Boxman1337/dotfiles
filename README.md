@@ -10,3 +10,9 @@
 |File Manager|[Thunar](https://archlinux.org/packages/extra/x86_64/thunar/) [Ranger](https://github.com/ranger/ranger)|
 |Shell|[Zsh](https://archlinux.org/packages/extra/x86_64/zsh/)|
 |Aur Helper|[Yay](https://github.com/Jguer/yay)|
+
+# Credits / Inspirations
+
+- https://github.com/gh0stzk/dotfiles
+- https://github.com/HynDuf/dotfiles
+- https://github.com/uzuto/cosmos-dots
