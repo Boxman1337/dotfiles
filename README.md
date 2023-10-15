@@ -1,5 +1,9 @@
 # Information 🃏
 
+<div style="flex:1; padding: 10px 0px 0px 10px">
+    <img src="assets/Screenshot1.png" alt="Rice Showcase" align="right" width="350px">
+</div>
+
 |Distro|[Arch](https://archlinux.org/)|
 |:---:|:---:|
 |WM|[BSPWM](https://github.com/baskerville/bspwm)|
@@ -10,6 +14,7 @@
 |File Manager|[Thunar](https://archlinux.org/packages/extra/x86_64/thunar/) [Ranger](https://github.com/ranger/ranger)|
 |Shell|[Zsh](https://archlinux.org/packages/extra/x86_64/zsh/)|
 |Aur Helper|[Yay](https://github.com/Jguer/yay)|
+|Screenshot Tool|[Flameshot](https://github.com/flameshot-org/flameshot)|
 
 # Credits / Inspirations
 
