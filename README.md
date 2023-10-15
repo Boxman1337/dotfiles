@@ -1,7 +1,7 @@
 # Information 🃏
 
 <div style="flex:1; padding: 10px 0px 0px 10px">
-    <img src="assets/Screenshot1.png" alt="Rice Showcase" align="right" width="350px">
+    <img src="assets/Screenshot1.png" alt="Rice Showcase" align="right" width="500px">
 </div>
 
 |Distro|[Arch](https://archlinux.org/)|
