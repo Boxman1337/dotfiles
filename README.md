@@ -21,3 +21,4 @@
 - https://github.com/gh0stzk/dotfiles
 - https://github.com/HynDuf/dotfiles
 - https://github.com/uzuto/cosmos-dots
+- https://github.com/drahenprofi/dotfiles
